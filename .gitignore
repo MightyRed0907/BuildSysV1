@@ -49,3 +49,6 @@ Session.vim
 
 # Visual Studio
 .vs
+
+# Temp
+/Content/CharacterEditor/*
