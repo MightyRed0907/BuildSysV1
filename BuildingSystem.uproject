@@ -12,6 +12,10 @@
 			]
 		},
 		{
+			"Name": "WindowsMoviePlayer",
+			"Enabled": false
+		},
+		{
 			"Name": "Bridge",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
@@ -19,6 +23,10 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
 		}
 	]
 }
